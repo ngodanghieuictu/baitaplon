@@ -7,5 +7,7 @@ Giao diện màn hình đăng nhập :
 Tên tài khoản đăng nhập: ngodanghieu
 Mật khẩu : ngodanghieu
 
+[Imgur](i.https://imgur.com/Yv0D2ln.png)
+
 
 
